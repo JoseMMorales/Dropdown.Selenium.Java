@@ -1,3 +1,2 @@
 
-# Dropdown.Selenium.Java 
-<img src="https://selenium.dev/images/selenium_logo_square_green.png" width="58" alt="Selenium">
+# Dropdown.Selenium.Java ![image](https://selenium.dev/images/selenium_logo_square_green.png)
