@@ -5,7 +5,8 @@
 This repository contains a good practice on handling Dropdowns in different scenarios.You will work on one of the most interesting topics in Automation Testing. Exploring 
 <a href="https://selenium.dev/selenium/docs/api/java/org/openqa/selenium/support/ui/Select.html">"Select"</a> class that is provided by Selenium to perform multiple operations on DropDown object and Multiple Select objects. 
 
-In this hands on exercise will also explore Assertion(JUnit) method to compare original and temporal array lists, combining different Statements like If, else or If End Loops to run the Scripts to get outcome of test run.
+In this hands on exercise will also explore 
+<a href="https://junit.org/junit4/javadoc/4.8/org/junit/Assert.html">"Assertion(JUnit)"</a> method to compare original and temporal array lists, combining different Statements like If, else or If End Loops to run the Scripts to get outcome of test run.
 
 
 ### Clone Project
@@ -55,13 +56,13 @@ Run an example test
 * "Select" Class 
 * .getAllSelectedOptions() (List<WebElement>)
 * .id()
-* System.out.println
+*  System.out.println
 * .getText()
 * .findElement()
 * .getOptions() (List<WebElement>)
 * .getFirstSelectedOption() 
 * .isMultiple() 
-* ArrayList() (List)
+*  ArrayList() (List)
 * .close()
   
   
