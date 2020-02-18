@@ -4,6 +4,11 @@
 
 This repository contains a good practice on handling Dropdowns in different scenarios, which makes it one of the most interesting topics in Automation Testing using WebDriver, Selenium and Java. Useful hands on experience to run own workshops to improve your Technical Skills in Software Testing.
 
+### Clone Project
+
+$ git clone
+
+
 ### Demo website to practice Dropdown:
 
 1. Website: http://demo.guru99.com/test/newtours/register.php
