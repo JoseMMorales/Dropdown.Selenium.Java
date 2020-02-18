@@ -1,5 +1,5 @@
 
-# Dropdown.Selenium.Java   ![image](https://avatars0.githubusercontent.com/u/983927?v=3&s=80) ![image](https://i7.pngguru.com/preview/785/145/98/java-development-kit-software-development-kit-computer-programming-computer-icons-programming-language-icon.jpg)
+# Dropdown.Selenium.Java   ![image](https://avatars0.githubusercontent.com/u/983927?v=3&s=80) ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjEqXLRdziR2C5OMK0BqhdWXrQwDjR81IxaskwUWsOkIYTtoHN)
 
 This repository contains a good practice on handling Dropdowns in different scenarios, which makes it one of the most interesting topics in Automation Testing using WebDriver, Selenium and Java. Useful hands on experience to run own workshops to improve your Technical Skills in Software Testing.
 
