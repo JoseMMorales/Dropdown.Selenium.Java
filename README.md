@@ -2,7 +2,8 @@
 <img src="https://avatars0.githubusercontent.com/u/983927?v=3&s=80" height="70" width="78"> <img src="https://www.testbytes.net/wp-content/uploads/2017/11/Eclipse.png" height="70" width="78"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjEqXLRdziR2C5OMK0BqhdWXrQwDjR81IxaskwUWsOkIYTtoHN" height="80" width="88"> 
 # Dropdown.Selenium.Java 
 
-This repository contains a good practice on handling Dropdowns in different scenarios.You will work on one of the most interesting topics in Automation Testing. Exploring <a href="https://selenium.dev/selenium/docs/api/java/org/openqa/selenium/support/ui/Select.html">"Select"</a> class that is provided by Selenium to perform multiple operations on DropDown object and Multiple Select objects. 
+This repository contains a good practice on handling Dropdowns in different scenarios.You will work on one of the most interesting topics in Automation Testing. Exploring 
+<a href="https://selenium.dev/selenium/docs/api/java/org/openqa/selenium/support/ui/Select.html">"Select"</a> class that is provided by Selenium to perform multiple operations on DropDown object and Multiple Select objects. 
 
 ### Clone Project
 
