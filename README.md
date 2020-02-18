@@ -38,7 +38,7 @@ Run an example test
 6. cd src/SingleSelectOption.java
 7. cd src/SortedOptions.java
 
-### Practice with (Class and Methods)
+### Class and Methods
 
 * .assertTrue (JUnit)
 * .fullscreen()
