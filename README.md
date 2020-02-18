@@ -7,8 +7,12 @@ This repository contains a good practice on handling Dropdowns in different scen
 
 1. Website: http://demo.guru99.com/test/newtours/register.php
 
-<img src="https://user-images.githubusercontent.com/43299285/74765606-d965bd80-527b-11ea-8581-e6d11aa82429.png" height="210" width="498">
+<img src="https://user-images.githubusercontent.com/43299285/74765606-d965bd80-527b-11ea-8581-e6d11aa82429.png" height="220" width="498">
 
 2. Website: https://www.testandquiz.com/selenium/testing.html
 
-<img src="https://user-images.githubusercontent.com/43299285/74767341-9b1dcd80-527e-11ea-8c02-5265db351af5.png" height="210" width="498">
+<img src="https://user-images.githubusercontent.com/43299285/74767341-9b1dcd80-527e-11ea-8c02-5265db351af5.png" height="240" width="498">
+
+2. Website: https://www.facebook.com/
+
+<img src="" height="240" width="498">
