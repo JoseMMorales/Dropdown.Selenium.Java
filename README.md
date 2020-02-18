@@ -13,12 +13,6 @@ $ cd Dropdown.Selenium.Java
 ### Pre-requisites:
 
 #### You'll need to install
-* Java JDK 13
-* Chrome 
-* Eclipse IDE
-
-
-### Built with: 
 * Webdriver
 * Java JDK 13
 * Eclipse IDE 2019‑09
