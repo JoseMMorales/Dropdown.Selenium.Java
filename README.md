@@ -27,7 +27,7 @@ $ cd Dropdown.Selenium.Java
 <img src="https://user-images.githubusercontent.com/43299285/74767341-9b1dcd80-527e-11ea-8c02-5265db351af5.png" height="240" width="498">
 
 3. Website: https://www.facebook.com/
-<img src="https://user-images.githubusercontent.com/43299285/74767642-25663180-527f-11ea-807c-39f1a961fdd2.png" height="240" width="498">
+<img src="https://user-images.githubusercontent.com/43299285/74767642-25663180-527f-11ea-807c-39f1a961fdd2.png" height="240" width="298">
 
 4. Website: http://testautomationpractice.blogspot.com/
 <img src="https://user-images.githubusercontent.com/43299285/74768198-1338c300-5280-11ea-9920-6feaad5934f5.png" height="240" width="498">
