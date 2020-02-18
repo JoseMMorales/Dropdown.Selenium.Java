@@ -34,13 +34,13 @@ $ cd Dropdown.Selenium.Java
 
 ### Practice with (Class and Methods)
 
-"Select"Class - Objects can be initialized by passing the dropdown webElement as parameter to its constructor.
-.deselectAll() – To deselect all the selected options.
-.deselectByIndex(int index) – To deselect the option based on its index.
-.deselectByValue(String valueAttribute) – To deselect the option its ‘value’ attribute.
-.deselectByVisibleText(String text) – To deselect the option based on the text over the option.
-.getOptions() – To return list of all the options(List<WebElement>).
-.getAllSelectedOptions() – To return the list of all the selected options(List<WebElement>).
-.getFirstSelectedOption() – To return the selected option/the first selected option in case of dropdowns allowing multi-select.
-isMultiple() 
+* "Select"Class - Objects can be initialized by passing the dropdown webElement as parameter to its constructor.
+* .deselectAll() – To deselect all the selected options.
+* .deselectByIndex(int index) – To deselect the option based on its index.
+* .deselectByValue(String valueAttribute) – To deselect the option its ‘value’ attribute.
+* .deselectByVisibleText(String text) – To deselect the option based on the text over the option.
+* .getOptions() – To return list of all the options(List<WebElement>).
+* .getAllSelectedOptions() – To return the list of all the selected options(List<WebElement>).
+* .getFirstSelectedOption() – To return the selected option/the first selected option in case of dropdowns allowing multi-select.
+* isMultiple() 
 
