@@ -10,7 +10,7 @@ $ git clone https://github.com/JoseMMorales/Dropdown.Selenium.Java.git
 
 $ cd Dropdown.Selenium.Java
 
-### Pre-requisites:
+### Pre-requisites
 #### You'll need to install
 * Webdriver
 * Java JDK 13
@@ -18,7 +18,7 @@ $ cd Dropdown.Selenium.Java
 * Selenium Java Client 3.141.59
 * JUnit5 
 
-### Demo website to practice Dropdown:
+### Demo website to practice Dropdown
 
 1. Website: http://demo.guru99.com/test/newtours/register.php
 <img src="https://user-images.githubusercontent.com/43299285/74765606-d965bd80-527b-11ea-8581-e6d11aa82429.png" height="220" width="498">
@@ -31,3 +31,16 @@ $ cd Dropdown.Selenium.Java
 
 4. Website: http://testautomationpractice.blogspot.com/
 <img src="https://user-images.githubusercontent.com/43299285/74768198-1338c300-5280-11ea-9920-6feaad5934f5.png" height="240" width="498">
+
+### Practice with (Class and Methods)
+
+"Select"Class - Objects can be initialized by passing the dropdown webElement as parameter to its constructor.
+.deselectAll() – To deselect all the selected options.
+.deselectByIndex(int index) – To deselect the option based on its index.
+.deselectByValue(String valueAttribute) – To deselect the option its ‘value’ attribute.
+.deselectByVisibleText(String text) – To deselect the option based on the text over the option.
+.getOptions() – To return list of all the options(List<WebElement>).
+.getAllSelectedOptions() – To return the list of all the selected options(List<WebElement>).
+.getFirstSelectedOption() – To return the selected option/the first selected option in case of dropdowns allowing multi-select.
+isMultiple() 
+
