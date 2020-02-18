@@ -6,8 +6,24 @@ This repository contains a good practice on handling Dropdowns in different scen
 
 ### Clone Project
 
-$ git clone
+$ git clone https://github.com/JoseMMorales/Dropdown.Selenium.Java.git
 
+$ cd Dropdown.Selenium.Java
+
+### Pre-requisites:
+
+#### You'll need to install
+* Java JDK 13
+* Chrome 
+* Eclipse IDE
+
+
+### Built with: 
+* Webdriver
+* Java JDK 13
+* Eclipse IDE 2019‑09
+* Selenium Java Client 3.141.59
+* JUnit5 
 
 ### Demo website to practice Dropdown:
 
