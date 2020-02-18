@@ -20,7 +20,7 @@ $ cd Dropdown.Selenium.Java
 
 ### Demo website to practice Dropdown
 
-:thumbsup:_Website_:thumbsup: |:thumbsup: _Dropdown_:thumbsup:
+:arrow_down: _Website_ :arrow_down:|:arrow_down: _Dropdown_ :arrow_down:
 ------------ | -------------
 http://demo.guru99.com/test/newtours/register.php | <img src="https://user-images.githubusercontent.com/43299285/74765606-d965bd80-527b-11ea-8581-e6d11aa82429.png" height="220" width="498">
 https://www.testandquiz.com/selenium/testing.html | <img src="https://user-images.githubusercontent.com/43299285/74767341-9b1dcd80-527e-11ea-8c02-5265db351af5.png" height="240" width="498">
