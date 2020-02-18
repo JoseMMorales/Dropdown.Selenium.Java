@@ -30,13 +30,13 @@ http://testautomationpractice.blogspot.com/ | <img src="https://user-images.gith
 ### Test
 Run an example test
 
-cd src/AscendingAndDescendingOrder.java
-cd src/ChekingIFFirstElementAsExpected.java
-cd src/PrintSizeAndAllValues.java
-cd src/SelectOptionMultipleplease.java
-cd src/SelectValues_DifferentMethods.java
-cd src/SingleSelectOption.java
-cd src/SortedOptions.java
+1- cd src/AscendingAndDescendingOrder.java
+2- cd src/ChekingIFFirstElementAsExpected.java
+3- cd src/PrintSizeAndAllValues.java
+4- cd src/SelectOptionMultipleplease.java
+5- cd src/SelectValues_DifferentMethods.java
+6- cd src/SingleSelectOption.java
+7- cd src/SortedOptions.java
 
 ### Practice with (Class and Methods)
 
