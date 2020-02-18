@@ -7,7 +7,7 @@ This repository contains a good practice on handling Dropdowns in different scen
 
 1. Website: http://demo.guru99.com/test/newtours/register.php
 
-<img src="/Users/jose/Desktop/Software Testing/GITHUB Projects(Uploaded)/Dropdowns/ImgREADME/Screen1.png" height="180" width="498">
+
 
 
 
