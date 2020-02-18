@@ -1,5 +1,5 @@
 
-# Dropdown.Selenium.Java    <img src="https://avatars0.githubusercontent.com/u/983927?v=3&s=80" height="90" width="98"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjEqXLRdziR2C5OMK0BqhdWXrQwDjR81IxaskwUWsOkIYTtoHN" height="90" width="98">
+# Dropdown.Selenium.Java    <img src="https://avatars0.githubusercontent.com/u/983927?v=3&s=80" height="70" width="78"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjEqXLRdziR2C5OMK0BqhdWXrQwDjR81IxaskwUWsOkIYTtoHN" height="80" width="88">
 
 This repository contains a good practice on handling Dropdowns in different scenarios, which makes it one of the most interesting topics in Automation Testing using WebDriver, Selenium and Java. Useful hands on experience to run own workshops to improve your Technical Skills in Software Testing.
 
