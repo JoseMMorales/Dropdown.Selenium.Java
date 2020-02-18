@@ -9,6 +9,6 @@ This repository contains a good practice on handling Dropdowns in different scen
 
 <img src="https://user-images.githubusercontent.com/43299285/74765606-d965bd80-527b-11ea-8581-e6d11aa82429.png" height="210" width="498">
 
+2. Website: https://www.testandquiz.com/selenium/testing.html
 
-
-
+<img src="https://user-images.githubusercontent.com/43299285/74765606-d965bd80-527b-11ea-8581-e6d11aa82429.png" height="210" width="498">
