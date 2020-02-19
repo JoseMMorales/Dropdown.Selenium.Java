@@ -65,4 +65,6 @@ Run an example test
 *  ArrayList() (List)
 * .close()
   
-  
+### Author
+
+Jose M Morales
