@@ -6,7 +6,7 @@ This repository contains a good practice on handling Dropdowns in different scen
 <a href="https://selenium.dev/selenium/docs/api/java/org/openqa/selenium/support/ui/Select.html">"Select"</a> class that is provided by Selenium to perform multiple operations on DropDown object and Multiple Select objects. 
 
 In this hands on exercise will also explore 
-<a href="https://junit.org/junit4/javadoc/4.8/org/junit/Assert.html">"Assertion(JUnit)"</a> method to compare original and temporal array lists, combining different Statements like If, else or If End Loops to run the Scripts to get outcome of test run.
+<a href="https://junit.org/junit4/javadoc/4.8/org/junit/Assert.html">"Assertion(JUnit)"</a> method comparing original and temporal array lists, combining different Statements like If, else or If End Loops to get outcome of test run.
 
 
 ### Clone Project
