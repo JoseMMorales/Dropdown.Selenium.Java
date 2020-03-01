@@ -8,8 +8,6 @@ This repository contains a good practice on handling Dropdowns in different scen
 In this hands on exercise will also explore 
 <a href="https://junit.org/junit4/javadoc/4.8/org/junit/Assert.html">"Assertion(JUnit)"</a> method comparing original and temporal array lists, combining different Statements like If, else or If End Loops to get outcome of test run.
 
-<img src="./ImgREADME/Screen1.png" height="180" width="498">
-
 ### Clone Project
 
 $ git clone https://github.com/JoseMMorales/Dropdown.Selenium.Java.git
