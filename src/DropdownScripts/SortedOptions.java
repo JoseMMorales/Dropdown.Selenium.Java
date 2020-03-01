@@ -15,16 +15,12 @@ public class SortedOptions {
 	@SuppressWarnings({ "unchecked", "rawtypes" })
 	public static void main(String[] args) {
 		
-		
 	System.setProperty("webdriver.chrome.driver", "/...................../chromedriver");
-	
 	WebDriver driver = new ChromeDriver();
-	
 	driver.get("http://testautomationpractice.blogspot.com/");
 	driver.manage().window().maximize();
 	
 	WebElement element = driver.findElement(By.id("animals"));
-	
 	//Select elements in the dropdown
 	Select se = new Select(element);
 	
@@ -35,7 +31,6 @@ public class SortedOptions {
 		
 	//Capture all options original list of dropdown
 	List <WebElement> options = se.getOptions();
-	
 	//For End Loop statement
 	for(WebElement e:options)
 	{
@@ -45,7 +40,6 @@ public class SortedOptions {
 	
 	//Print Before sorting temporary list
 	System.out.println("Dropdown Original list " +originalList);
-	//System.out.println("Before sorting temp List: " +Templist);
 	
 	//Sorting Temp List
 	Collections.sort(Templist);
@@ -63,9 +57,6 @@ public class SortedOptions {
 	{
 		System.out.println("Dropdown Not Sorted!");
 	}
-	
 	driver.close();
-
   }
-
 }
