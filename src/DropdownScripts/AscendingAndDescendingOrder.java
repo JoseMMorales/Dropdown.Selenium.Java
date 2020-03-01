@@ -23,8 +23,8 @@ public class AscendingAndDescendingOrder {
     driver.get("http://demo.guru99.com/test/newtours/register.php");
     
     Select country = new Select(driver.findElement(By.xpath("/html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[11]/td[2]/select")));
-    
-    //Actual List
+   
+   //Actual List
     List actualList = new ArrayList();
     List <WebElement> countries = country.getOptions();
     
