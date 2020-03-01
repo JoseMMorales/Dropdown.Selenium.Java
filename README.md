@@ -10,6 +10,7 @@ In this hands on exercise will also explore
 
 <img src="/Users/jose/Desktop/Software Testing/ImgREADME/Screen1.png" height="180" width="498">
 
+
 ### Clone Project
 
 $ git clone https://github.com/JoseMMorales/Dropdown.Selenium.Java.git
