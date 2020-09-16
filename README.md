@@ -65,4 +65,4 @@ Run an example test
   
 ### Author
 
-Jose M Morales
+Jose MMorales
